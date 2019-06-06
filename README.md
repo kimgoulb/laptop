@@ -134,6 +134,11 @@ Databases:
 
 It should take less than 15 minutes to install (depends on your machine).
 
+Other:
+
+* Sublime - Material Theme: https://github.com/equinusocio/material-theme
+* Iterm - ZSH: https://github.com/robbyrussell/oh-my-zsh/
+
 Customize in `~/.laptop.local`
 ------------------------------
 
